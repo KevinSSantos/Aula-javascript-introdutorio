@@ -32,3 +32,5 @@ console.log(`Idade: ${idade}`)
 console.log(`Altura: ${altura}`)
 console.log(`Peso: ${peso}`)
 console.log(`É humano ?: ${ehHumano}`)
+
+console
