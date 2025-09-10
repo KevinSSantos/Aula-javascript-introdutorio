@@ -17,7 +17,7 @@ let sobrenome = "Santos"
 let idade = 24
 let altura = 1.71
 let peso = 69
-let ehHumano = verdadeiro
+let ehHumano = true
 
 console.log("Nome:", nome)
 console.log("Sobrenome:", sobrenome)
