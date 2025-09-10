@@ -17,9 +17,11 @@ let sobrenome = "Santos"
 let idade = 24
 let altura = 1.71
 let peso = 69
+let ehHumano = verdadeiro
 
 console.log("Nome:", nome)
 console.log("Sobrenome:", sobrenome)
 console.log("Idade:", idade)
 console.log("Altura:", altura)
 console.log("Peso:", peso)
+console.log("É humano ?:", ehHumano)
