@@ -21,4 +21,4 @@ Este repositório contém exemplos, exercícios e materiais para quem está come
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/Aula-javascript-introdutorio.git
+   git clone https://github.com/KevinSSantos/Aula-javascript-introdutorio.git
