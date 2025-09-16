@@ -1,5 +1,5 @@
 let meuNome = "Kevin";
-let minhaIdade = 17;
+let minhaIdade = 24;
 let minhaCidade = "Pomerode - SC"
 let gostaDeProgramar = true;
 
